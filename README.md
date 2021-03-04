@@ -2,25 +2,18 @@
 
 ## Description:
 
-description.
-.
-.
-.
-.
-.
-.
+This repo contains the refactored version of the Horiseon web page. In refactoring this web page i have applied semantic html elements and css, consolidated code where possible, reformated code to make it more readable and commented code to describe what it does.
+
+
 ## Screenshoots of website:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/screenshoot1.png)
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/screenshoot2.png)
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/screenshoot3.png)
-
-## Link to GitHub Repo:
-
-[Link to GitHub Repo of Horiseon web page.](https://github.com/RichardtHopkins/HoriseonW1Homework)
+![The header, navigation bar, and background image at the top of the screen.](./assets/images/screenshot1.png)
+![Main Content and aside section of the Horiseon website](./assets/images/screenshot2.png)
+![Footer showing copy right information.](./assets/images/screenshot3.png)
 
 
-## Link to Website:
+
+## Link to live website:
 
 [Link to Horiseon website](https://richardthopkins.github.io/HoriseonW1Homework/)
 
